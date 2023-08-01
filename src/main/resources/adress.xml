@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+    <region>
+        <city size="big"> Kiev </city>
+        <street> Strajesko </street>
+        <house> 1 </house>
+    </region>
+    <region>
+        <city size="big"> Lviv </city>
+        <street> Shevchenko </street>
+        <house> 7 </house>
+    </region>
+</cities>
